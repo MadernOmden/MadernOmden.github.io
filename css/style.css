@@ -1,0 +1,20 @@
+body {
+margin: 0;
+}
+
+#top-menu {
+background-color: #333333;
+font-family: sans-serif;
+font-size: 30;
+color: #cccccc;
+text-align: center;
+padding: 10px;
+}
+
+#top-menu img {
+margin: 15px 0;
+}
+
+#top-menu-text-links a {
+margin: 0 20px;
+}
